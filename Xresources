@@ -7,6 +7,8 @@ URxvt.scrollstyle: plain
 
 URxvt.saveLines: 4096
 
+URxvt.termName: rxvt-256color
+
 ! Perl files may be found in /usr/lib/urxvt/perl: all values are comma separated
 URxvt.perl-ext-common:
 
