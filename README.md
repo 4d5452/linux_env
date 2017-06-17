@@ -9,3 +9,6 @@ bashrc - copy into your home directory prefixed with a '.'<br />
 
 vimrc - copy into your home directory prefixed with a '.'<br />
     * cp ./vimrc ~/.vimrc
+
+profile - copy into your home directory prefixed with a '.'<br />
+    * cp ./profile ~/.profile
