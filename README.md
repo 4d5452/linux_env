@@ -1,11 +1,11 @@
 # linux_env
 
 
-Xresources - copy into your home directory prefixed with a '.'\n
+Xresources - copy into your home directory prefixed with a '.'<br />
     * cp ./Xresources ~/.Xresources
 
-bashrc - copy into your home directory prefixed with a '.'\n
+bashrc - copy into your home directory prefixed with a '.'<br />
     * cp ./bashrc ~/.bashrc
 
-vimrc - copy into your home directory prefixed with a '.'\n
+vimrc - copy into your home directory prefixed with a '.'<br />
     * cp ./vimrc ~/.vimrc
