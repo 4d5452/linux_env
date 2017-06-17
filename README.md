@@ -1,8 +1,8 @@
 # linux_env
-Common envrionmental config files for the linux system
 
 
-Xresources - copy into your home directory prefixed with a '.'.
+Xresources - copy into your home directory prefixed with a '.'\n
     * cp ./Xresources ~/.Xresources
 
-
+bashrc - copy into your home directory prefixed with a '.'\n
+    * cp ./bashrc ~/.bashrc
