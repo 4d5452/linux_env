@@ -12,3 +12,6 @@ vimrc - copy into your home directory prefixed with a '.'<br />
 
 profile - copy into your home directory prefixed with a '.'<br />
     * cp ./profile ~/.profile
+
+i3/config - copy into your home directories config file<br />
+    * cp -r ./i3 ~/.config
